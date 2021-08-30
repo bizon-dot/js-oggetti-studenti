@@ -22,7 +22,6 @@ for (let proprietà in studente) {
 }
 
 // Array studenti 
-
 let studenti = [{
         nome: `Eilen`,
         cognome: `Torres`,
